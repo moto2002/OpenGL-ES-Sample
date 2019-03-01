@@ -67,12 +67,12 @@
 		7626526717F10E6C007CCD43 /* GameTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GameTests-Info.plist"; sourceTree = "<group>"; };
 		7626526917F10E6C007CCD43 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		7626526B17F10E6C007CCD43 /* GameTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameTests.m; sourceTree = "<group>"; };
-		7626527517F10EE6007CCD43 /* esShader.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = esShader.c; path = ../../../../../Common/Source/esShader.c; sourceTree = "<group>"; };
-		7626527617F10EE6007CCD43 /* esShapes.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = esShapes.c; path = ../../../../../Common/Source/esShapes.c; sourceTree = "<group>"; };
-		7626527717F10EE6007CCD43 /* esTransform.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = esTransform.c; path = ../../../../../Common/Source/esTransform.c; sourceTree = "<group>"; };
-		7626527817F10EE6007CCD43 /* esUtil.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = esUtil.c; path = ../../../../../Common/Source/esUtil.c; sourceTree = "<group>"; };
+		7626527517F10EE6007CCD43 /* esShader.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = esShader.c; path = ../../../../Common/Source/esShader.c; sourceTree = "<group>"; };
+		7626527617F10EE6007CCD43 /* esShapes.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = esShapes.c; path = ../../../../Common/Source/esShapes.c; sourceTree = "<group>"; };
+		7626527717F10EE6007CCD43 /* esTransform.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = esTransform.c; path = ../../../../Common/Source/esTransform.c; sourceTree = "<group>"; };
+		7626527817F10EE6007CCD43 /* esUtil.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = esUtil.c; path = ../../../../Common/Source/esUtil.c; sourceTree = "<group>"; };
 		7626528517F10FAD007CCD43 /* Game.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = Game.c; path = ../../../Game.c; sourceTree = "<group>"; };
-		7626528717F110A5007CCD43 /* esUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = esUtil.h; path = ../../../../../Common/Include/esUtil.h; sourceTree = "<group>"; };
+		7626528717F110A5007CCD43 /* esUtil.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = esUtil.h; path = ../../../../Common/Include/esUtil.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,7 +113,7 @@
 				7625BC3D17F32A780019C421 /* ViewController.m */,
 			);
 			name = iOS;
-			path = ../../../../../Common/Source/iOS;
+			path = ../../../../Common/Source/iOS;
 			sourceTree = "<group>";
 		};
 		7626522917F10E6C007CCD43 = {
